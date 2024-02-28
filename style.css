@@ -1,0 +1,17 @@
+.box-usuarios {
+	margin: 0 auto;
+		 text-align: center;
+		 height: 60px;
+		width: 100%;
+	}
+	p.texto-usuarios { 
+	background-color: red; 
+	color: blue;
+	font-size: 18px;
+	}
+	.texto-destaque {
+		color: #000;
+		font-weight: 600;
+		font-size: 26px;
+	}
+	
